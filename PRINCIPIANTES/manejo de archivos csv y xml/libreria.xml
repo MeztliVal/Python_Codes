@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<data>
+    <libro nombre="El Origen" idioma="Español">
+        <autor>Dan Brown</autor>
+        <formato>Digital</formato>
+        <editorial>De Bolsillo</editorial>
+        <precio>165</precio>
+        <inventario almacen="NA" vendidos="NA"/>
+    </libro>    
+    <libro nombre="Leona" idioma="Español">
+        <autor>Celia del Palacio</autor>
+        <formato>Fisico</formato>
+        <editorial>Planeta</editorial>
+        <precio>350</precio>
+        <inventario almacen="72" vendidos="32"/>
+    </libro>
+    <libro nombre="Harry Poter y la Piedra Filosofal" idioma="Español">
+        <autor>J.K. Rowling</autor>
+        <formato>Físico</formato>
+        <editorial>Salamandra</editorial>
+        <precio>365</precio>
+        <inventario almacen="180" vendidos="93"/>
+    </libro>
+    <libro nombre="Dracula" idioma="Español">
+        <autor>Bram Stoker</autor>
+        <formato>Físico</formato>
+        <editorial>Filios</editorial>
+        <precio>130</precio>
+        <inventario almacen="90" vendidos="85"/>
+    </libro>
+    
+</data>

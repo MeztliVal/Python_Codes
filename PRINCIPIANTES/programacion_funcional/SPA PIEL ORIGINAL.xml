@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<data>
+    <cliente np="1" paterno="BALDERAS" materno="DOMINGUEZ" nombre1="ADRIAN" nombre2="HADLAI">
+		<sexo>H</sexo>
+        <fecha>30/10/20</fecha>
+        <servicio>FACIAL INTENSIVO</servicio>
+        <costo>1500</costo>
+        <porcentaje_descuento>10</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="2" paterno="CALIXTO" materno="HERNANDEZ" nombre1="OSWALDO" nombre2="NICOLAS">
+		<sexo>H</sexo>
+        <fecha>29/10/20</fecha>
+        <servicio>FACIAL EXPRESS</servicio>
+        <costo>700</costo>
+        <porcentaje_descuento>15</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="3" paterno="CASTILLO" materno="GOMEZ" nombre1="AMERICA" nombre2="MICHEL">
+		<sexo>M</sexo>
+        <fecha>26/10/20</fecha>
+        <servicio>BAÑO DE BARRO</servicio>
+        <costo>850</costo>
+        <porcentaje_descuento>5</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="4" paterno="ROCAMORA" materno="CASTILLO" nombre1="ROBERTO" nombre2="LUIS">
+		<sexo>H</sexo>
+        <fecha>02/11/20</fecha>
+        <servicio>FACIAL EXPRESS</servicio>
+        <costo>700</costo>
+        <porcentaje_descuento>20</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="5" paterno="JAVIER" materno="LOPEZ" nombre1="ANA" nombre2="KAREN">
+		<sexo>M</sexo>
+        <fecha>05/11/20</fecha>
+        <servicio>FACIAL INTENSIVO</servicio>
+        <costo>1500</costo>
+        <porcentaje_descuento>20</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="6" paterno="YESCAS" materno="BAUTISTA" nombre1="AMITZADAY" nombre2="">
+		<sexo>M</sexo>
+        <fecha>28/10/20</fecha>
+        <servicio>BAÑO DE BARRO</servicio>
+        <costo>850</costo>
+        <porcentaje_descuento>10</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="7" paterno="HERNANDEZ" materno="PADILLA" nombre1="ALEXIS" nombre2="DANIEL">
+		<sexo>H</sexo>
+        <fecha>02/11/20</fecha>
+        <servicio>BAÑO DE VAPOR</servicio>
+        <costo>600</costo>
+        <porcentaje_descuento>5</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="8" paterno="ALVAREZ" materno="ACEVEDO" nombre1="EDUARDO" nombre2="">
+		<sexo>H</sexo>
+        <fecha>31/10/20</fecha>
+        <servicio>FACIAL INTENSIVO</servicio>
+        <costo>1500</costo>
+        <porcentaje_descuento>15</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="9" paterno="MIGUEL" materno="PEÑA" nombre1="JOHAN" nombre2="ALESSANDRO">
+		<sexo>H</sexo>
+        <fecha>28/10/20</fecha>
+        <servicio>BAÑO DE VAPOR</servicio>
+        <costo>600</costo>
+        <porcentaje_descuento>5</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="10" paterno="ROLDAN" materno="MARTINEZ" nombre1="FERNANDO" nombre2="">
+		<sexo>H</sexo>
+        <fecha>04/11/20</fecha>
+        <servicio>BAÑO DE VAPOR</servicio>
+        <costo>600</costo>
+        <porcentaje_descuento>10</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="11" paterno="HERNANDEZ" materno="CAMARA" nombre1="RAMOS" nombre2="GABRIEL">
+		<sexo>H</sexo>
+        <fecha>02/11/20</fecha>
+        <servicio>BAÑO DE BARRO</servicio>
+        <costo>850</costo>
+        <porcentaje_descuento>15</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="12" paterno="MORENO" materno="DURAN" nombre1="ESTEFANI" nombre2="">
+		<sexo>M</sexo>
+        <fecha>30/10/20</fecha>
+        <servicio>FACIAL EXPRESS</servicio>
+        <costo>700</costo>
+        <porcentaje_descuento>5</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="13" paterno="VILLAMIL" materno="MARTINEZ" nombre1="ANA" nombre2="">
+		<sexo>M</sexo>
+        <fecha>05/11/20</fecha>
+        <servicio>FACIAL INTENSIVO</servicio>
+        <costo>1500</costo>
+        <porcentaje_descuento>20</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="14" paterno="GRAJALES" materno="AGUILAR" nombre1="ESLY" nombre2="GABRIELA">
+		<sexo>M</sexo>
+        <fecha>05/11/20</fecha>
+        <servicio>FACIAL EXPRESS</servicio>
+        <costo>700</costo>
+        <porcentaje_descuento>10</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="15" paterno="TOTO" materno="LUNA" nombre1="MAURICIO" nombre2="JOSE">
+		<sexo>H</sexo>
+        <fecha>28/10/20</fecha>
+        <servicio>FACIAL EXPRESS</servicio>
+        <costo>700</costo>
+        <porcentaje_descuento>5</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="16" paterno="JUSTO" materno="MEDINA" nombre1="REGGIE" nombre2="MICHEL">
+		<sexo>H</sexo>
+        <fecha>05/11/20</fecha>
+        <servicio>MASAJE REDUCTIVO</servicio>
+        <costo>1200</costo>
+        <porcentaje_descuento>10</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="17" paterno="TEJEDA" materno="BASILIO" nombre1="ANGEL" nombre2="EDUARDO">
+		<sexo>H</sexo>
+        <fecha>29/10/20</fecha>
+        <servicio>FACIAL INTENSIVO</servicio>
+        <costo>1500</costo>
+        <porcentaje_descuento>10</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="18" paterno="ROQUE" materno="ESTEBAN" nombre1="LIZETH" nombre2="">
+		<sexo>M</sexo>
+        <fecha>05/11/20</fecha>
+        <servicio>MASAJE REDUCTIVO</servicio>
+        <costo>1200</costo>
+        <porcentaje_descuento>5</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="19" paterno="BALDERAS" materno="MARTINEZ" nombre1="YUSILETTE" nombre2="">
+		<sexo>M</sexo>
+        <fecha>27/10/20</fecha>
+        <servicio>FACIAL INTENSIVO</servicio>
+        <costo>1500</costo>
+        <porcentaje_descuento>25</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="20" paterno="CARRERA" materno="GOMEZ" nombre1="LUIS" nombre2="">
+		<sexo>H</sexo>
+        <fecha>31/10/20</fecha>
+        <servicio>MASAJE REDUCTIVO</servicio>
+        <costo>1200</costo>
+        <porcentaje_descuento>15</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="21" paterno="RODRIGUEZ" materno="ARGUETA" nombre1="HUGO" nombre2="">
+		<sexo>H</sexo>
+        <fecha>04511/20</fecha>
+        <servicio>MASAJE REDUCTIVO</servicio>
+        <costo>1200</costo>
+        <porcentaje_descuento>5</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="22" paterno="PULIDO" materno="JUAN" nombre1="ROBERTO" nombre2="CARLOS">
+		<sexo>H</sexo>
+        <fecha>03/11/20</fecha>
+        <servicio>MASAJE REDUCTIVO</servicio>
+        <costo>1200</costo>
+        <porcentaje_descuento>5</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="23" paterno="CRUZ" materno="RAMOS" nombre1="JOSE" nombre2="ISAAC">
+		<sexo>H</sexo>
+        <fecha>29/10/20</fecha>
+        <servicio>BAÑO DE VAPOR</servicio>
+        <costo>600</costo>
+        <porcentaje_descuento>30</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="24" paterno="GARDUZA" materno="AGUERO" nombre1="RODRIGO" nombre2="">
+		<sexo>H</sexo>
+        <fecha>31/10/20</fecha>
+        <servicio>MASAJE REDUCTIVO</servicio>
+        <costo>1200</costo>
+        <porcentaje_descuento>10</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="25" paterno="NIEVEZ" materno="QUEVEDO" nombre1="JONATHAN" nombre2="">
+		<sexo>H</sexo>
+        <fecha>27/10/20</fecha>
+        <servicio>BAÑO DE VAPOR</servicio>
+        <costo>600</costo>
+        <porcentaje_descuento>10</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="26" paterno="QUINTANA" materno="BELTRAN" nombre1="MOISES" nombre2="">
+		<sexo>H</sexo>
+        <fecha>29/10/20</fecha>
+        <servicio>MASAJE REDUCTIVO</servicio>
+        <costo>1200</costo>
+        <porcentaje_descuento>5</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="27" paterno="RAMON" materno="HIDALGO" nombre1="STEVEN" nombre2="SAMUEL">
+		<sexo>H</sexo>
+        <fecha>04/10/20</fecha>
+        <servicio>BAÑO DE VAPOR</servicio>
+        <costo>600</costo>
+        <porcentaje_descuento>15</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="28" paterno="DIAZ" materno="MARTINEZ" nombre1="JOSUE" nombre2="JIRHET">
+		<sexo>H</sexo>
+        <fecha>02/11/20</fecha>
+        <servicio>FACIAL INTENSIVO</servicio>
+        <costo>1500</costo>
+        <porcentaje_descuento>20</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="29" paterno="CASTRO" materno="LOPEZ" nombre1="ZURIBETH" nombre2="">
+		<sexo>H</sexo>
+        <fecha>29/10/20</fecha>
+        <servicio>MASAJE REDUCTIVO</servicio>
+        <costo>1200</costo>
+        <porcentaje_descuento>5</porcentaje_descuento>
+    </cliente>
+    
+    <cliente np="30" paterno="MARTINEZ" materno="COBOS" nombre1="YAEL" nombre2="ARTURO">
+		<sexo>H</sexo>
+        <fecha>31/10/20</fecha>
+        <servicio>BAÑO DE BARRO</servicio>
+        <costo>850</costo>
+        <porcentaje_descuento>10</porcentaje_descuento>
+    </cliente>
+    
+</data>

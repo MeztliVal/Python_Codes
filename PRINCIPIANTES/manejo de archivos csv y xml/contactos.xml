@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<data>
+    <country name="Liechtenstein" continent="Europa">
+        <rank>1</rank>
+        <year>2008</year>
+        <contact>Mary</contact>
+        <telephone number="32-32349179" city="Vaduz"/>
+        
+    </country>
+    <country name="Malasia" continent="Asia">
+        <rank>4</rank>
+        <year>2011</year>
+        <contact>Peter</contact>
+        <telephone number="56-56709287" city="Singapore"/>
+    </country>
+    
+    <country name="Panama" continent="America">
+        <rank>68</rank>
+        <year>2019</year>
+        <contact>Steven</contact>
+        <telephone number="92-85968473" city="Balboa"/>
+    </country>
+</data>
