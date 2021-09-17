@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Sep  9 11:45:35 2021
+Mi Ciclo For
+@author: meztli
+"""
+for i in range(2):
+    print(i)
+#Segundo ciclo for
+print('Lista Numeros Original')
+lista_numeros=[1,2,3,4,5,6,7,8,9,10]
+print(lista_numeros)
+#SEgundo ciclo modificado    
+print('Segundo Ciclo For Modificado')
+lista_numeros=[1,2,3,4,5,6,7,8,9,10]
+contador = 0
+for v1 in lista_numeros:
+    lista_numeros[contador]*=10
+    print(lista_numeros[contador])
+    contador+=1
+    print(contador)
+print(lista_numeros)
